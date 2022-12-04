@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.text-primary{
+    color: #1678CB;
+}
+.bg-primary{
+    background-color: #1678CB;
+}
+
+.text-secondary{
+    color: #3B8BEA;
+}
+.bg-secondary{
+    background-color: #3B8BEA;
+}
+
+.text-asset{
+    color: #68D6F5;
+}
+.bg-asset{
+    background-color: #68D6F5;
+}
+
+.text-extra{
+    color: #7E7E7E;
+}
+
+.btn-cus:hover{
+    background-color: #1678CB;
+}
